@@ -116,3 +116,12 @@
 
 
 // 57
+// function getNum(getArray) {
+//   getArray=[5,8,1,3,4,9]
+//   var rnd = Math.floor(Math.random())
+//   for(var i=0; i< getArray.length; i++){
+//     getArray+=rnd
+//     console.log(rnd)
+//   }
+// }
+// getNum()
